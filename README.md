@@ -13,7 +13,7 @@ Edit where you want the pdf to be saved on your computer
 output_pdf = "output/copied_gitbook.pdf"
 
 Run
-python gb2pdf.py https://examplegitbook.com
+python gitbook2pdf.py https://examplegitbook.com
 
 Requirements
 Python
